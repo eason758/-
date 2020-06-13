@@ -1,4 +1,6 @@
-解壓縮  
+     下載:  
+點右邊的綠色按鈕(clone or downloud)
+解壓縮兩次  
 點開資料夾  
 找 "allegro2.exe"  
 開始玩!  
